@@ -14,4 +14,7 @@
  * You should have received a copy of the GNU Lesser General Public
  * License along with this library; If not, see <http://www.gnu.org/licenses/>.
  */
+/**
+ * LucidCalc Elemets. Look in the tryout Package to get an Idea.
+ */
 package eu.ggnet.lucidcalc;
