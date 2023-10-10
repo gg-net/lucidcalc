@@ -19,12 +19,12 @@ package eu.ggnet.lucidcalc.jexcel;
 import java.io.File;
 import java.util.*;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import eu.ggnet.lucidcalc.LucidCalcReader;
 
-import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.assertFalse;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertFalse;
 
 public class JExcelReaderTest {
 

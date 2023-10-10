@@ -9,7 +9,7 @@ import java.awt.Color;
 import java.io.File;
 import java.util.*;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import eu.ggnet.lucidcalc.*;
 
